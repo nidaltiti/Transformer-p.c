@@ -1,0 +1,13 @@
+<process-program>
+  <V2>
+    <Namefile file="C:\Users\User\AppData\Roaming\Skype\fire.leo80" Trans="Delete">Delete</Namefile>
+  </V2>
+  <listbox>
+    <Namefolder>C:\Users\User\Downloads</Namefolder>
+    <Namefolder>C:\Users\User\Desktop</Namefolder>
+  </listbox>
+  <toolbox>
+    <CheckBox checked="False" />
+    <auto sen="5" />
+  </toolbox>
+</process-program>

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transformer p.c", "Transformer p.c\Transformer p.c.csproj", "{F8946CC2-F12C-441F-BBE9-A7BC2AF47BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8946CC2-F12C-441F-BBE9-A7BC2AF47BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8946CC2-F12C-441F-BBE9-A7BC2AF47BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8946CC2-F12C-441F-BBE9-A7BC2AF47BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8946CC2-F12C-441F-BBE9-A7BC2AF47BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

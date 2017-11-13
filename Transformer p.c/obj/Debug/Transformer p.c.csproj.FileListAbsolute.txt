@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\bin\Debug\Transformer p.c.exe.config
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\obj\Debug\Transformer p.c.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\obj\Debug\Transformer_p.c.Properties.Resources.resources
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\obj\Debug\Transformer_p.c.S1.resources
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\obj\Debug\Transformer p.c.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\bin\Debug\Transformer p.c.exe
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\bin\Debug\Transformer p.c.pdb
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\obj\Debug\Transformer p.c.exe
+C:\Users\User\Desktop\c#\Transformer p.c\Transformer p.c\obj\Debug\Transformer p.c.pdb
